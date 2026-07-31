@@ -172,8 +172,8 @@ import PixelIconSprite from "./PixelIconSprite.vue";
         <h2 id="wb-community-title">学会<strong>WorkBuddy，构建你的AI一人公司</strong></h2>
       </div>
       <div class="wb-community__actions">
-        <a class="wb-button wb-button--acid" href="https://kevintao1024.com/">加入社区</a>
-        <a class="wb-button wb-button--dark-outline" href="https://github.com/Kevin-free/WorkBuddyGuide">前往 GitHub</a>
+        <a class="wb-button wb-button--acid" href="/bluebook">开始阅读</a>
+        <a class="wb-button wb-button--dark-outline" href="https://kevintao1024.com/">加入社区</a>
       </div>
       <PixelIcon name="book" class="wb-community__icon" />
     </section>
