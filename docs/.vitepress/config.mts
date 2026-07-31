@@ -73,7 +73,7 @@ export default defineConfig({
       ],
       sidebar: siteSidebar,
       socialLinks: [
-        { icon: "github", link: "https://github.com/AlephAITech/WorkBuddyGuide" },
+        { icon: "github", link: "https://github.com/Kevin-free/WorkBuddyGuide" },
       ],
       search: {
         provider: "local",
@@ -94,13 +94,13 @@ export default defineConfig({
         },
       },
       editLink: {
-        pattern: "https://github.com/AlephAITech/WorkBuddyGuide/edit/main/docs/:path",
+        pattern: "https://github.com/Kevin-free/WorkBuddyGuide/edit/main/docs/:path",
         text: "在 GitHub 上改进此页",
       },
       footer: {
         message:
           '以真实任务为主线的 WorkBuddy 社区实战读本 · Pixel icons by <a href="https://pixeliconlibrary.com/" target="_blank" rel="noreferrer">HackerNoon</a>',
-        copyright: "Copyright © 2026 WorkBuddy Guide Contributors",
+        copyright: "Copyright © 2026 Kevin Lab",
       },
     },
   });

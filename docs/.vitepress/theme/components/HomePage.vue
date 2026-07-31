@@ -19,7 +19,7 @@ import PixelIconSprite from "./PixelIconSprite.vue";
               <span>开始阅读</span>
               <PixelIcon name="arrow-right" />
             </a>
-            <a class="wb-button wb-button--outline" href="/reading-guide">查看阅读路线</a>
+            <a class="wb-button wb-button--outline" href="https://kevintao1024.com/">加入社区</a>
           </div>
         </div>
 
@@ -169,11 +169,11 @@ import PixelIconSprite from "./PixelIconSprite.vue";
     <section class="wb-community" aria-labelledby="wb-community-title">
       <div>
         <p class="wb-pixel-label">BUILD IN PUBLIC · LEARN IN PUBLIC</p>
-        <h2 id="wb-community-title">这本蓝皮书，也可以由你继续写下去。</h2>
+        <h2 id="wb-community-title">学会<strong>WorkBuddy，构建你的AI一人公司</strong></h2>
       </div>
       <div class="wb-community__actions">
-        <a class="wb-button wb-button--acid" href="/community/contributing">参与共创</a>
-        <a class="wb-button wb-button--dark-outline" href="https://github.com/AlephAITech/WorkBuddyGuide">前往 GitHub</a>
+        <a class="wb-button wb-button--acid" href="https://kevintao1024.com/">加入社区</a>
+        <a class="wb-button wb-button--dark-outline" href="https://github.com/Kevin-free/WorkBuddyGuide">前往 GitHub</a>
       </div>
       <PixelIcon name="book" class="wb-community__icon" />
     </section>
