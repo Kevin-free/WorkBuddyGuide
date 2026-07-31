@@ -29,7 +29,7 @@ export default defineConfig({
     },
     transformHead: (context) => createSeoHead(siteUrl, context),
     head: [
-      ["link", { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" }],
+      ["link", { rel: "icon", type: "image/svg+xml", href: "/favicon.svg?v=2" }],
       ["meta", { name: "theme-color", content: "#28b894" }],
       ["meta", { name: "author", content: "WorkBuddy Guide Contributors" }],
       [
