@@ -1,7 +1,7 @@
 :root {
-  --wb-acid: #d8f238;
-  --wb-acid-strong: #b9e52f;
-  --wb-acid-soft: #eef7bd;
+  --wb-acid: #28b894;
+  --wb-acid-strong: #1f9e80;
+  --wb-acid-soft: #d9f2ea;
   --wb-ink: #11130e;
   --wb-paper: #f5f7f0;
   --wb-surface: #ffffff;
@@ -14,10 +14,10 @@
   --vp-font-family-base: var(--wb-body);
   --vp-font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
 
-  --vp-c-brand-1: #355e18;
-  --vp-c-brand-2: #477622;
-  --vp-c-brand-3: #23420f;
-  --vp-c-brand-soft: rgba(216, 242, 56, 0.3);
+  --vp-c-brand-1: #177a64;
+  --vp-c-brand-2: #1e9e80;
+  --vp-c-brand-3: #115f4e;
+  --vp-c-brand-soft: rgba(40, 184, 148, 0.24);
   --vp-c-bg: var(--wb-paper);
   --vp-c-bg-alt: #edf0e8;
   --vp-c-bg-elv: var(--wb-surface);
@@ -31,27 +31,27 @@
   --vp-sidebar-bg-color: #f0f3eb;
   --vp-code-block-bg: #161913;
   --vp-code-block-color: #f4f7ef;
-  --vp-code-lang-color: #d8f238;
-  --vp-code-line-highlight-color: rgba(216, 242, 56, 0.12);
-  --vp-custom-block-tip-bg: #eff7c9;
-  --vp-custom-block-tip-border: #355e18;
+  --vp-code-lang-color: #28b894;
+  --vp-code-line-highlight-color: rgba(40, 184, 148, 0.12);
+  --vp-custom-block-tip-bg: #d8f1ea;
+  --vp-custom-block-tip-border: #177a64;
 }
 
 .dark {
-  --wb-acid: #d8f238;
-  --wb-acid-strong: #c5e934;
-  --wb-acid-soft: #2b3218;
+  --wb-acid: #28b894;
+  --wb-acid-strong: #24a888;
+  --wb-acid-soft: #14332d;
   --wb-ink: #f3f5ed;
   --wb-paper: #10120e;
   --wb-surface: #181b15;
   --wb-muted: #aeb4a7;
   --wb-line: #343a2f;
-  --wb-shadow: 4px 4px 0 #d8f238;
+  --wb-shadow: 4px 4px 0 #28b894;
 
-  --vp-c-brand-1: #d8f238;
-  --vp-c-brand-2: #c5e934;
-  --vp-c-brand-3: #e5f878;
-  --vp-c-brand-soft: rgba(216, 242, 56, 0.14);
+  --vp-c-brand-1: #28b894;
+  --vp-c-brand-2: #24a888;
+  --vp-c-brand-3: #4ec4a5;
+  --vp-c-brand-soft: rgba(40, 184, 148, 0.16);
   --vp-c-bg: var(--wb-paper);
   --vp-c-bg-alt: #151812;
   --vp-c-bg-elv: var(--wb-surface);
@@ -65,9 +65,9 @@
   --vp-sidebar-bg-color: #141712;
   --vp-code-block-bg: #090a08;
   --vp-code-block-color: #f7f9f2;
-  --vp-code-lang-color: #d8f238;
-  --vp-custom-block-tip-bg: #242b16;
-  --vp-custom-block-tip-border: #d8f238;
+  --vp-code-lang-color: #28b894;
+  --vp-custom-block-tip-bg: #122a25;
+  --vp-custom-block-tip-border: #28b894;
 }
 
 *,

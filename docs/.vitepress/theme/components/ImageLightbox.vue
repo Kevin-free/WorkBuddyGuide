@@ -513,7 +513,7 @@ onUnmounted(() => {
   border-radius: 3px;
   object-fit: contain;
   background: #fff;
-  box-shadow: 8px 8px 0 rgb(216 242 56 / 22%);
+  box-shadow: 8px 8px 0 rgb(40 184 148 / 22%);
   transform-origin: center;
   transition: transform 80ms ease-out;
   user-select: none;
@@ -583,7 +583,7 @@ onUnmounted(() => {
 .wb-image-lightbox__key {
   display: inline-block;
   padding: 2px 6px;
-  border: 1px solid rgb(216 242 56 / 62%);
+  border: 1px solid rgb(40 184 148 / 62%);
   font-family: var(--wb-pixel);
   font-size: 9px;
   font-weight: 400;
